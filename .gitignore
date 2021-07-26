@@ -141,4 +141,4 @@ cython_debug/
 .DS_Store
 
 #Visual code
-.vscode/
+/.vscode
